@@ -10,7 +10,7 @@ do
 		"SMS")
 			echo "SMS";;
 		"Contacts")
-			echo "Contacts";
+			echo "Contacts"
 	esac
 done
 
